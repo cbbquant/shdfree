@@ -5,5 +5,5 @@ CBB超级套利免费版是一款加密货币对冲套利软件，支持各主�
 最低硬件：2核2G
 ## 软件安装
 ```bash
-rpm -ivh http://down.xitour.com/shd/cbbshdfree.rpm
+rpm -ivh https://github.com/cbbquant/shdfree/releases/latest/download/cbbshdfree.rpm
 ```
