@@ -5,7 +5,7 @@ CBB超级套利免费版是一款加密货币对冲套利软件，支持各主�
 操作系统：centos 7.x或centos 8.x<br/>
 最低硬件：2核2G
 ## 软件安装
-使用PuTTY或其他SSH管理软件连接并登录您的服务器，在命令行中输入如下代码，耐心等待服务器下载安装包并自动安排。
+使用PuTTY或其他SSH管理软件连接并登录您的服务器，在命令行中输入如下代码，耐心等待服务器下载安装包并自动安装。
 ```bash
 rpm -ivh https://github.com/cbbquant/shdfree/releases/latest/download/cbbshdfree.rpm
 ```
