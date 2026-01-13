@@ -34,21 +34,8 @@ http://您的服务器公网IP:6680/
 # 开始使用
 在您本地电脑的浏览器中输入`http://您的服务器公网IP:6680/`，如果无法打开相应网址，请重新执行“验证安装”和“检查可访问性”这两个条目，软件初始登录时，未配置任何登录账户，登录时的登录选项请选择“通讯密钥”登录，默认密码为123456，登录后请立即修改通讯密钥，最后在软件中的“通用配置”-->“软件授权”里，登录您的邮箱即可开始使用，登录邮箱仅为方便开发者统计数据，不影响软件的免费使用。
 # 支持的交易所
-<table width="100%">
-  <thead>
-  <tr>
-    <th>名称</th>
-    <th>代码</th>
-    <th>类型</th>
-    <th>折扣</th>
-  </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>币安现货</td>
-      <td>ba</td>
-      <td>现货</td>
-      <td>20%</td>
-    </tr>
-  </tbody>
-</table>
+|名称|代码|类型|折扣|注册|
+| :- | :- | :- | :- | :- |
+| 币安现货|ba|现货|20%|[注册账户](https://accounts.binance.com/register?ref=HE58BXUN)|
+| 币安USDC永续|bac|永续合约|20%|[注册账户](https://accounts.binance.com/register?ref=HE58BXUN)|
+| 币安USDT永续|bab|永续合约|20%|[注册账户](https://accounts.binance.com/register?ref=HE58BXUN)|
