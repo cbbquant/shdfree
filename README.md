@@ -46,3 +46,19 @@ http://您的服务器公网IP:6680/
 | 欧易币本位永续|oks|永续合约|20%|[注册账户](https://www.okx.com/join/XCBBLA)|
 | 欧易USDT交割|oku|交割合约|20%|[注册账户](https://www.okx.com/join/XCBBLA)|
 | 欧易币本位交割|okc|交割合约|20%|[注册账户](https://www.okx.com/join/XCBBLA)|
+| Bybit现货|by|现货|33%|[注册账户](https://partner.bybit.com/b/cbbla)|
+| BybIT永续USDT|byu|永续合约|33%|[注册账户](https://partner.bybit.com/b/cbbla)|
+| BybIT永续USDC|byp|永续合约|33%|[注册账户](https://partner.bybit.com/b/cbbla)|
+| 火必现货|hb|现货|---|[注册账户](https://www.htx.com/invite/zh-cn/1f?invite_code=cbbla)|
+| 火必USDT永续|hbp|永续合约|---|[注册账户](https://www.htx.com/invite/zh-cn/1f?invite_code=cbbla)|
+| Gate现货|gt|现货|20%|[注册账户](https://www.gate.com/share/cbblaxit)|
+| Gate永续USDT|gtc|永续合约|20%|[注册账户](https://www.gate.com/share/cbblaxit)|
+| KuCoin现货|kc|现货|---|[注册账户](https://www.kucoin.com/)|
+| KuCoin永续USDT|kcp|永续合约|---|[注册账户](https://www.kucoin.com/)|
+| KuCoin永续USDC|kcc|永续合约|---|[注册账户](https://www.kucoin.com/)|
+| BitGet现货|bg|现货|20%|[注册账户](https://partner.hdmune.cn/bg/cbbla)|
+| BitGet永续USDT|bgu|永续合约|20%|[注册账户](https://partner.hdmune.cn/bg/cbbla)|
+| BitGet永续USDC|bgc|永续合约|20%|[注册账户](https://partner.hdmune.cn/bg/cbbla)|
+| HyperLiquid永续USDC|hpc|永续合约|---|[注册账户](https://app.hyperliquid.xyz/)|
+| HashKey现货香港|hk|现货|---|[注册账户](https://www.hashkey.com/)|
+
