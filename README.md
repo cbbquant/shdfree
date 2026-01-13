@@ -56,9 +56,9 @@ http://您的服务器公网IP:6680/
 | KuCoin现货|kc|现货|---|[注册账户](https://www.kucoin.com/)|
 | KuCoin永续USDT|kcp|永续合约|---|[注册账户](https://www.kucoin.com/)|
 | KuCoin永续USDC|kcc|永续合约|---|[注册账户](https://www.kucoin.com/)|
-| BitGet现货|bg|现货|20%|[注册账户](https://partner.hdmune.cn/bg/cbbla)|
-| BitGet永续USDT|bgu|永续合约|20%|[注册账户](https://partner.hdmune.cn/bg/cbbla)|
-| BitGet永续USDC|bgc|永续合约|20%|[注册账户](https://partner.hdmune.cn/bg/cbbla)|
+| BitGet现货|bg|现货|20%|[注册账户](https://partner.bitget.com/bg/cbbla)|
+| BitGet永续USDT|bgu|永续合约|20%|[注册账户](https://partner.bitget.com/bg/cbbla)|
+| BitGet永续USDC|bgc|永续合约|20%|[注册账户](https://partner.bitget.com/bg/cbbla)|
 | HyperLiquid永续USDC|hpc|永续合约|---|[注册账户](https://app.hyperliquid.xyz/)|
 | HashKey现货香港|hk|现货|---|[注册账户](https://www.hashkey.com/)|
 | Backpack现货|bp|现货|---|[注册账户](https://backpack.exchange/)|
