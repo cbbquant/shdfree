@@ -18,7 +18,11 @@ sudo rpm -ivh https://github.com/cbbquant/shdfree/releases/latest/download/cbbsh
 ```bash
 systemctl status cbbshdfree
 ```
-如在命令行窗口看到“Active: active (running)”字样，则表示软件已正常运行
+如在命令行窗口看到“Active: active (running)”字样，则表示软件已正常运行<br/>
+本地电脑浏览器打开管理网址：
+```bash
+http://您的服务器公网IP:6680/
+```
 
 ## 检查可访问性
 在你本地电脑的浏览器中输入`http://您的服务器公网IP:6680/`，如果无法访问，则检查“云服务器安全组(防火墙)”和“操作系统防火墙”这两项，
