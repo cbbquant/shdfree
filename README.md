@@ -61,4 +61,10 @@ http://您的服务器公网IP:6680/
 | BitGet永续USDC|bgc|永续合约|20%|[注册账户](https://partner.hdmune.cn/bg/cbbla)|
 | HyperLiquid永续USDC|hpc|永续合约|---|[注册账户](https://app.hyperliquid.xyz/)|
 | HashKey现货香港|hk|现货|---|[注册账户](https://www.hashkey.com/)|
+| Backpack现货|bp|现货|---|[注册账户](https://backpack.exchange/)|
+| Backpack永续USDC|bpc|永续合约|---|[注册账户](https://backpack.exchange/)|
+| Aster现货|at|现货|10%|[注册账户](https://www.asterdex.com/zh-CN/referral/301896)|
+| Aster永续USDT|atc|永续合约|10%|[注册账户](https://www.asterdex.com/zh-CN/referral/301896)|
+| Lighter永续USDC|ltc|永续合约|---|[注册账户](https://app.lighter.xyz/)|
+
 
