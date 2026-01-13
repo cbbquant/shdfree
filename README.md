@@ -37,5 +37,12 @@ http://您的服务器公网IP:6680/
 |名称|代码|类型|折扣|注册|
 | :- | :- | :- | :- | :- |
 | 币安现货|ba|现货|20%|[注册账户](https://accounts.binance.com/register?ref=HE58BXUN)|
-| 币安USDC永续|bac|永续合约|20%|[注册账户](https://accounts.binance.com/register?ref=HE58BXUN)|
-| 币安USDT永续|bab|永续合约|20%|[注册账户](https://accounts.binance.com/register?ref=HE58BXUN)|
+| 币安USDT永续|bac|永续合约|20%|[注册账户](https://accounts.binance.com/register?ref=HE58BXUN)|
+| 币安USDC永续|bab|永续合约|20%|[注册账户](https://accounts.binance.com/register?ref=HE58BXUN)|
+| 币安币本位永续|bap|永续合约|20%|[注册账户](https://accounts.binance.com/register?ref=HE58BXUN)|
+| 币安币本位交割|bas|交割合约|20%|[注册账户](https://accounts.binance.com/register?ref=HE58BXUN)|
+| 欧易现货|ok|现货|20%|[注册账户](https://www.okx.com/join/XCBBLA)|
+| 欧易USDT永续|okp|永续合约|20%|[注册账户](https://www.okx.com/join/XCBBLA)|
+| 欧易币本位永续|oks|永续合约|20%|[注册账户](https://www.okx.com/join/XCBBLA)|
+| 欧易USDT交割|oku|交割合约|20%|[注册账户](https://www.okx.com/join/XCBBLA)|
+| 欧易币本位交割|okc|交割合约|20%|[注册账户](https://www.okx.com/join/XCBBLA)|
